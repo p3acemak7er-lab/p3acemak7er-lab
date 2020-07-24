@@ -4,6 +4,7 @@
 **p3acemak7er-lab/p3acemak7er-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+—>
 
 - 🔭 I’m currently working on forming connections. 
 - 🌱 I’m currently learning Javascript, Python, and Frameworks. 
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: keybase and linkedin. 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
