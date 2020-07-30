@@ -54,3 +54,4 @@ plugins:
 #  - vendor/gems/
 #  - vendor/ruby/
 github: [metadata]
+include: [_layouts]
