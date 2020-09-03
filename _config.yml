@@ -20,11 +20,11 @@
 
 title: Bold_Programming 
 email: your-email@example.com
-description: - # this means to ignore newlines until "baseurl:"
+description: # this means to ignore newlines until "baseurl:"
   My personal brand and blog development enterprise that I hope to share my learning journey
   for others to network, collaborate, or learn from me. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://bold-smile.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://bold-smile.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
