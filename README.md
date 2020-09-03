@@ -5,7 +5,7 @@ My own personal progress journey as a code developer.
 that are innovative as well as structured. I'm learning the ropes of the Jekyll blog framework currently; so, it will be 
 some time before my site is fully operational -- 
 # My Brand
-The brand I'm creating is "balloon:bold_coding:balloon: 
+The brand I'm creating is :balloon:**bold_coding**:balloon: 
 (lower-case seems more swaggerish)
 # Issues 
 -- I've come across several things that should be noted for anyone reading this and planning on making a Jekyll page. 
