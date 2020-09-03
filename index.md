@@ -9,12 +9,12 @@
 >>> markdown.convert('i ♥ :fa-coffee:')
 <p>i ♥ <i class="fa fa-coffee"></i></p>
 <head>
-<link rel="stylesheet" type="text/css"href="header.css">
+<link rel="stylesheet" type="text/css" href="header.css">
 <script src="https://kit.fontawesome.com/c6be4965ce.js" crossorigin="anonymous"></script>
 
 </head>
 
-# Bold Programming 
+# bold_coding
 <p>
     Please work
 </p>
