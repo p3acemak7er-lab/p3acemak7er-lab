@@ -3,12 +3,14 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
 
-<p>i ♥ <i class="fab fa-connectdevelop"></i></p>
+<p> <i class="fab fa-connectdevelop"></i></p>
 <head>
 <link rel="stylesheet" type="text/css" href="header.css">
 <script src="https://kit.fontawesome.com/c6be4965ce.js" crossorigin="anonymous"></script>
 
 </head>
 
-# bold_coding 
+<h1>
+A Developer's story
+</h1>
 
