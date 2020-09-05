@@ -8,12 +8,12 @@ header: A Developer's Story
 
 <p> <i class="fab fa-connectdevelop"></i></p>
 <head>
-<link rel="stylesheet" type="text/css" href="header.css">
+<link rel="stylesheet" type="text/css" href="main.css">
 <script src="https://kit.fontawesome.com/c6be4965ce.js" crossorigin="anonymous"></script>
 
 </head>
 
 <h1>
-{{ header.header}}
+{{ page.header}}
 </h1>
 
