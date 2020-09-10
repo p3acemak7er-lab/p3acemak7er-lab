@@ -7,6 +7,7 @@ title: Home Base
 
 
 ---
+<html>
 <head>
 <link rel="stylesheet" type="text/css" href="header.css"> 
 
@@ -14,6 +15,7 @@ title: Home Base
 </head>
 
 <h1>
-{{ page.header}}
+{{ page.header }}
 </h1>
+</html>
 
