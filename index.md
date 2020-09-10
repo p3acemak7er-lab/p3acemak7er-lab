@@ -8,8 +8,6 @@ title: Home Base
 
 ---
 
-<div class ="fa-4x"> <i class="fab fa-connectdevelop" data-fa-transform="shrink-8" style="background: greenyellow></i> </div> 
-<head>
 <link rel="stylesheet" type="text/css" href={ include header.css %}>
 <script src="https://kit.fontawesome.com/c6be4965ce.js" crossorigin="anonymous"></script>
 
