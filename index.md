@@ -8,8 +8,8 @@ title: Home Base
 
 ---
 
-<link rel="stylesheet" type="text/css" href={ include header.css %}>
-<script src="https://kit.fontawesome.com/c6be4965ce.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" type="text/css" href="header.css"> 
+
 
 </head>
 
