@@ -9,7 +9,6 @@ title: Home Base
 ---
 <html>
 <head>
-<link rel="stylesheet" type="text/css" href="header.css"> 
 
 
 </head>
@@ -19,8 +18,6 @@ title: Home Base
     color: slateblue;
 }
 </style>
-
-}>
 
 <h1>
 {{ page.header }}
