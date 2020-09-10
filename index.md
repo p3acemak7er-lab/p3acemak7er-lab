@@ -7,7 +7,7 @@ title: Home Base
 
 
 ---
-
+<head>
 <link rel="stylesheet" type="text/css" href="header.css"> 
 
 
