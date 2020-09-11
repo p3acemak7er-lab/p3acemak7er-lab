@@ -8,7 +8,6 @@ title: Home Base
 
 
 ---
-<html>
 <head>
 
 
@@ -30,5 +29,4 @@ title: Home Base
     </li>
   {% endfor %} 
 </ul> -->
-</html>
 
