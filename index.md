@@ -11,13 +11,14 @@ title: Home Base
 <head>
 
 
-</head>
+
 <style type="text/css">
 .h1 {
     font-family: Fantasy, Chalkduster, serif;
     color: slateblue;
 }
 </style>
+</head>
 
 <h1>
 {{ page.header }}
