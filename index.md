@@ -23,11 +23,11 @@ title: Home Base
 <h1>
 {{ page.header }}
 </h1>
-<!-- <ul>
+ <ul>
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %} 
-</ul> -->
+</ul> 
 
