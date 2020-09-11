@@ -4,7 +4,7 @@
 layout: post
 header: A Developer's Story
 title: Home Base
-include{{ }}
+
 
 
 ---
@@ -23,13 +23,12 @@ include{{ }}
 <h1>
 {{ page.header }}
 </h1>
-
-<ul>
+<!-- <ul>
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
-  {% endfor %}
-</ul>
+  {% endfor %} 
+</ul> -->
 </html>
 
