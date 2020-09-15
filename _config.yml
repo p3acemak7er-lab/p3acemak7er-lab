@@ -54,5 +54,3 @@ plugins:
 #  - vendor/ruby/
 github: [metadata]
 include: [_layouts]
-future: true
-exclude: _site 
