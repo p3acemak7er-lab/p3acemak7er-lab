@@ -58,3 +58,4 @@ future: true
 exclude: _site 
 kramdown: 
   html_to_native: true
+highlighter: pigments 
