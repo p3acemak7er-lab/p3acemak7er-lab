@@ -2,6 +2,6 @@
 layout: post
 title: "Data Structures?"
 categories: introduction 
-permalink: bold-smile.github.io/posts/1
+permalink: bold-smile.github.io/posts/2
 --- 
 
