@@ -2,7 +2,7 @@
 layout: post
 title: "General Terms"
 categories: introduction 
-permalink: bold-smile.github.io/posts3
+permalink: bold-smile.github.io/posts/3
 --- 
 # Terms
 <details> 
@@ -25,6 +25,10 @@ console.log(typeof example);
 {% endhighlight %}
 
 
+</details>
+<details>
+<summary> DOM (Document Object Manipulation) </summary> 
+Websites written in html or xml can be accessed through this API to alter, edit, remove, etc... what is on the document by it's classes or ID's.
 </details>
 
 
